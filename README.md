@@ -126,11 +126,10 @@ Premium is dynamically calculated every week based on:
 
 ---
 
+
+
 ## 📊 Workflow Diagram
-
-(Add your diagram image here after uploading)
-
----
+![Workflow](Workflow.png)
 
 ## 🔗 GitHub Repository
 (Your repo link here)
